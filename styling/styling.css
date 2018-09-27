@@ -1,0 +1,38 @@
+body {
+background-color: rgb(19,16,53);
+background-color: #000000
+
+}
+
+a{
+	color: white;
+	padding-left: 400px;
+	font-size: 30px;
+	font-family: 'bangers', cursive;
+	text-decoration: none;
+}
+ 
+a:hover{
+	color: green;
+}
+
+p{
+	color: white;
+	font-family: Rockwell; 
+	font-size: 40PX;
+	padding-left: 100px;
+	text-align: center;
+	font-family: 'Bangers', cursive;
+}
+
+img{
+	height: 500px;
+	width: 500px;
+	padding-left: 400px;
+	border-radius: 90%;
+	padding-top: center;
+
+}
+p:hover{
+	color: red;
+
